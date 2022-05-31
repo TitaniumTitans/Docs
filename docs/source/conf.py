@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'Titan Docs'
+copyright = '2022, Titanium Titans'
+author = 'MazeOfEncryption, GearBoxFox'
 
 release = '0.1'
 version = '0.1.0'
