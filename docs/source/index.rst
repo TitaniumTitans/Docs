@@ -23,3 +23,10 @@ Contents
    :caption: Helpful Links:
 
    helpful-links/helpful-links
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Driving Guides:
+
+   driving-guides/driving-guides
+
