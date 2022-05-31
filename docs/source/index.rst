@@ -14,6 +14,11 @@ Contents
 --------
 
 .. toctree::
-
-   usage
+   programming formating
    api
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Helpful Links:
+
+   helpful-links/helpful-links
