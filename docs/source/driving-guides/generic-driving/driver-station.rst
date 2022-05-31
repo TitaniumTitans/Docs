@@ -11,14 +11,14 @@ Driver Station Overview
 
 This is what the driver station looks like when first opened:
 
-.. image:: images/driver-station
+.. image:: images/driver-station.png
 
 Enable/Disable
 --------------
 
 The most important part is the two big buttons in the bottom left corner:
 
-.. image:: images/ds-enable-disable
+.. image:: images/ds-enable-disable.png
 
 This enables the robot (allowing it to move/be controlled by the driver),
 or disables it (the default state, it can't do anything here). You can also enable the 
@@ -30,7 +30,7 @@ Control Modes
 Right above the enable and disable buttons is a list of option. These change what
 mode you're enabling  when you run the robot.
 
-.. image:: images/ds-control-mode
+.. image:: images/ds-control-mode.png
 
 As you can see, there are four different modes:
 
