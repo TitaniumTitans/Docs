@@ -1,9 +1,6 @@
-Template for the Read the Docs tutorial
+Titanium Titans Documentation
 =======================================
 
-This GitHub template includes fictional Python library
-with some basic Sphinx docs.
+This repository contains documentation for the software/control side of the Titanum Titans, FRC team #4467!
 
-Read the tutorial here:
-
-https://docs.readthedocs.io/en/stable/tutorial/
+https://titaniumtitans.readthedocs.io/en/latest/
