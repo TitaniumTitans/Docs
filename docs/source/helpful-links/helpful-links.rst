@@ -1,14 +1,22 @@
 Helpful Links
 =====================
 
+.. _WPILib Documentation: https://docs.wpilib.org/en/stable/index.html
+.. _CTRE Downloads: https://store.ctr-electronics.com/software/
+.. _ CTRE Documentation: https://store.ctr-electronics.com/software/
+.. _Rev Documentaion: http://www.revrobotics.com/sparkmax-software/
+
 Here's a list of commonly used links, these may be helpful.
 
-WPILib Documentation: <https://docs.wpilib.org/en/stable/index.html>
+`WPILib Documentation`_
+-----------------------
 
-CTRE Downloads: <https://store.ctr-electronics.com/software/>
+`CTRE Downloads`_
+-----------------
 
-CTRE Documentation: <https://phoenix-documentation.readthedocs.io/en/latest/>
+`CTRE Documentation`_ 
+---------------------
 
-Rev Downloads: <https://www.revrobotics.com/software/>
+`Rev Docuemntation`_ 
+--------------------
 
-Rev Documentation: <http://www.revrobotics.com/sparkmax-software/>

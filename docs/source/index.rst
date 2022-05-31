@@ -15,7 +15,7 @@ Contents
 --------
 
 .. toctree::
-   programming formating
+   programming_formating
    api
 
 .. toctree::
