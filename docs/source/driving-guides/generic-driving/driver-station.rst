@@ -48,4 +48,13 @@ As you can see, there are four different modes:
 
 4. Test
     Test mode is used to run additional code that won't be run in matches.
+    
+ Indicators
+ ----------
+ 
+ To the right of both previous items is a variety of indicators:
+ 
+ .. image:: images/ds-indicators.png
+ 
+ The most important of these include a battery change meter, which shows the amount of battery left in voltage (12-13 is charges, 11.5 or lower is dead), and three indicators that show communication to the robot, if there is running robot code, and weither there is a joystick connected.
 
