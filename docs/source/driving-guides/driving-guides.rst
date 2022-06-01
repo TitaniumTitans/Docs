@@ -6,7 +6,7 @@ instruction on how to use driver station
 
 .. toctree::
     :caption: Driving Guides:
-    :maxdepth: 2
+    :maxdepth: 1
 
     generic-driving/driver-station
     hyperion/hyperion
