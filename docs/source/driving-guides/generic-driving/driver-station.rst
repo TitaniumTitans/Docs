@@ -50,7 +50,7 @@ As you can see, there are four different modes:
     Test mode is used to run additional code that won't be run in matches.
     
  Indicators
- ----------
+ ---------------
  
  To the right of both previous items is a variety of indicators:
  
