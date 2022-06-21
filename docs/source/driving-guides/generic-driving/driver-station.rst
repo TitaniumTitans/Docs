@@ -22,7 +22,7 @@ The most important part is the two big buttons in the bottom left corner:
 
 This enables the robot (allowing it to move/be controlled by the driver),
 or disables it (the default state, it can't do anything here). You can also enable the 
-robot by hitting :code: `[ ] \`, and can be disabled by hitting :code: `enter`.
+robot by hitting [ + ] + \, and can be disabled by hitting Enter.
 
 Control Modes
 -------------
